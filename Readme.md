@@ -45,13 +45,13 @@ The Centre offer extensive training opportunities across a variety of applied di
 
 The speakers of the day are: 
 
-- [https://visualinteractivedata.github.io/bach](**Dr. Benjamin Bach**). Lecturer in Design Informatics and Visualization at the University of Edinburgh. 
+- **(https://visualinteractivedata.github.io/bach)[Dr. Benjamin Bach]**. Lecturer in Design Informatics and Visualization at the University of Edinburgh. 
 His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data.
 - **Mashael AlKadi**.  PhD student at School of Informatics, University of Edinburgh. 
 Interested in data sciences, data visualization, web tech and NLP. Currently working on enhancing data visualizations through learning analytics.
 - **Dr. Lucia Michielin**. Training Manager for the CDCS. 
 Her main responsibilities involves planning and co-ordinating of a comprehensive digital research methods training programme for academic researchers in the College of Arts, Humanities and Social Science. 
-- [http://ljhavens.myportfolio.com/](**Lucy Havens**).  PhD student at School of Informatics, University of Edinburgh.
+- **(http://ljhavens.myportfolio.com/)[Lucy Havens]**.  PhD student at School of Informatics, University of Edinburgh.
 Lucy is researching bias in cultural heritage metadata. 
 In her research she seeks to identify and classify bias present in the language of cultural heritage catalogues. She is also a Training Fellow for the CDCS.
 
