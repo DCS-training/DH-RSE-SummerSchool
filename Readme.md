@@ -16,7 +16,7 @@ Attendees will be able to either use the provided demo dataset or to explore thi
 For more information on how to get ready for the practical see the `Readme.md` file within the `Vistorian` folder in this repo.
 
 We are then going to move on to the second practical tutorial that will focus on how to produce good data visualisation with R.
-This 2-hours tutorial will be lead by **Lucia Michielin** and will give you an introductory overview to the basic techniques for producing informative and reproducible visualisation of tabular data.  
+This 2-hours tutorial will be led by **Lucia Michielin** and will give you an introductory overview to the basic techniques for producing informative and reproducible visualisation of tabular data.  
 Participants will learn how to enter and modify data in R, and how to create visualisations, including the main graph typologies available depending on the type of variables (charts, scatter plots, and histograms, etc.). #
 Participants will also get an overview on how to customise your graph (from adding legends to controlling the colours palettes).  
 For more information on how to get ready for the practical see the `Readme.md` file within the `R Studio` folder in this repo.
