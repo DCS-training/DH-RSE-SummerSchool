@@ -18,7 +18,7 @@ Linux
   - For​ **Windows** ​ click on ​ **install R for the first time.** ​Then ​ **download R for Windows** ​and follow the installation widget.​ ​If you get stuck follow this
 video tutorial ​https://www.youtube.com/watch?v=GAGUDL-4aVw
   - For​ **Mac** ​ Download ​ **the most recent pkg file** ​and follow the installation widget. If you get stuck follow this video tutorial https://www.youtube.com/watch?v=EmZqlcKkJMM
-  - For ​ **Linux** ​go on the correspondent subfolder and follow the normal path you do for installing new softwares. If you are using Ubuntu you can follow
+  - For ​ **Linux** ​go on the correspondent subfolder and follow the normal path you do for installing new software. If you are using Ubuntu you can follow
 this guide ​https://www.youtube.com/watch?v=kF0-FH-xBiE
 
 - Once R is installed you can install R studio (R interface)
@@ -70,14 +70,14 @@ In this folder you can find the following files and folders
 - `RVisualisation.pptx` is presentation used during the tutorial.
 
 You can download each file separately or you can download and extract the zipped file named `RstudioTutorial` and unzip it on an easily accessible directory in your machine.
-NB. if you have a windows managed machine it is a good idea to avoid C since you may luck full priviliges on that folder.
+NB. if you have a windows managed machine it is a good idea to avoid C since you may luck full privileges on that folder.
 
 ### How to set a R project  
 As long as you will have all your data in an easily accessible folder in your machine or you are going to use option B or C of the installation instructions you are ready to go.
-However if you want to know in advance how to set a project in R (we are going to cover the topic during the tutorial) you can have a look [here](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects)
+However if you want to know in advance how to set a project in R (we are going to cover the topic during the tutorial) you can have a look [here](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects).
 Or you can watch this [video](https://www.youtube.com/watch?v=pyJMWlDptYw).
 
-For this class you would need 2 subfolders : 
+For this class you would need 2 sub-folders : 
 - data 
 - graphs  
 
