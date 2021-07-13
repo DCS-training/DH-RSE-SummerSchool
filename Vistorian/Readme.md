@@ -8,13 +8,15 @@ Our summer school session is split into two 1h sessions. The first 1h session wi
 
 ## What is The Vistorian?
 
-The Vistorian is an online tool for interactive exploration of dynamic, multivariate, and geographic networks. It offers four visualizations: : node-link diagrams, adjacency matrices, a dynamic ego visualization, and a map with a network representation.The Vistorian also offers you the ability to have multiple views of your network at the sametime. 
+The Vistorian is an online tool for interactive exploration of dynamic, multivariate, and geographic networks. 
+It offers four visualizations: node-link diagrams, adjacency matrices, a dynamic ego visualization, and a map with a network representation.
+The Vistorian also offers you the ability to have multiple views of your network at the sametime. 
 To know more about The Vistorian, visit
  https://vistorian.github.io  
 
-## Installation and prerequistes 
+## Installation and prerequisites
 
-You do not need to install or do any prepreparation before-hand.
+You do not need to install or do any preparation before-hand.
 
 ### How can I utilize the session to explore my own dataset?
 If you wish to explore your own network using The Vistorian, you just need to ensure it is in the right format. While the tutorial will explain you how to format your data, you can prepare your data before the session:  https://vistorian.github.io/formattingdata.html 
