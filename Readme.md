@@ -21,7 +21,7 @@ Participants will learn how to enter and modify data in R, and how to create vis
 Participants will also get an overview on how to customise your graph (from adding legends to controlling the colours palettes).  
 For more information on how to get ready for the practical see the `Readme.md` file within the `R Studio` folder in this repo.
 
-The day will be concluded by an RSE Story by **Lucy Havens**. 
+The day will be concluded by an RSE Story by **Lucy Havens**, who will share her path from a degree in Information Systems to a job in business and technology consulting, and from there to research positions at the intersection of design, data science, and the humanities. After a 15-minute overview of her career path, there will be a 45-minute discussion period so the audience can ask their own questions about Lucy's experience as an RSE.
 
 
 ## Schedule
