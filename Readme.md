@@ -52,8 +52,8 @@ Interested in data sciences, data visualization, web tech and NLP. Currently wor
 - **Dr. Lucia Michielin**. Training Manager for the CDCS. 
 Her main responsibilities involves planning and co-ordinating of a comprehensive digital research methods training programme for academic researchers in the College of Arts, Humanities and Social Science. 
 - **[Lucy Havens](http://ljhavens.myportfolio.com/)**.  PhD student at School of Informatics, University of Edinburgh.
-Lucy is researching bias in cultural heritage metadata. 
-In her research she seeks to identify and classify bias present in the language of cultural heritage catalogues. She is also a Training Fellow for the CDCS.
+Lucy is researching bias in cultural heritage catalogues. 
+In her research she seeks to identify and classify gender bias present in the language of archival metadata descriptions. She is also a Training Fellow for the CDCS.
 
 ## Content of this repository
 
