@@ -5,7 +5,7 @@ We are going to focus on best practices and pathways to generate more informativ
 
 The day will be kick off with a talk from **Benjamin Bach** titled “Data Visualization: From Exploration to Storytelling to Participation” that will focus on the importance of good data visualisation in research.
 
-After this talk we are going to explore the [Vistorian](vistorian.net) tool with **Mashael AlKadi**. 
+After this talk we are going to explore the [Vistorian](https://vistorian.github.io/) tool with **Mashael AlKadi**. 
 The Vistorian is an online tool for interactive exploration of dynamic, multivariate, and geographic networks.
 It is an active research project at the Vishub at the University of Edinburgh and Inria, France. 
 The first hour will be a demo session open to all attendees that will focus on exploring the Vistorian interface and features.
