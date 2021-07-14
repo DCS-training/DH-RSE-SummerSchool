@@ -11,13 +11,13 @@ It is an active research project at the Vishub at the University of Edinburgh an
 The first hour will be a demo session open to all attendees that will focus on exploring the Vistorian interface and features.
 
 After the lunch break we are going to move to the more hands-on part of the day.
-The afternoon will be kicked off by a practical tutorial with [Vistorian](vistorian.net). 
+The afternoon will be kicked off by a practical tutorial with [Vistorian](https://vistorian.github.io/). 
 Attendees will be able to either use the provided demo dataset or to explore thier own data (if you plan to be BYOD please check [this wiki](https://vistorian.github.io/formattingdata.html) on how to format your data to use them within the Vistorian platform.
 For more information on how to get ready for the practical see the `Readme.md` file within the `Vistorian` folder in this repo.
 
 We are then going to move on to the second practical tutorial that will focus on how to produce good data visualisation with R.
 This 2-hours tutorial will be led by **Lucia Michielin** and will give you an introductory overview to the basic techniques for producing informative and reproducible visualisation of tabular data.  
-Participants will learn how to enter and modify data in R, and how to create visualisations, including the main graph typologies available depending on the type of variables (charts, scatter plots, and histograms, etc.). #
+Participants will learn how to enter and modify data in R, and how to create visualisations, including the main graph typologies available depending on the type of variables (charts, scatter plots, and histograms, etc.). 
 Participants will also get an overview on how to customise your graph (from adding legends to controlling the colours palettes).  
 For more information on how to get ready for the practical see the `Readme.md` file within the `R Studio` folder in this repo.
 
