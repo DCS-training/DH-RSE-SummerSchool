@@ -12,7 +12,7 @@ The first hour will be a demo session open to all attendees that will focus on e
 
 After the lunch break we are going to move to the more hands-on part of the day.
 The afternoon will be kicked off by a practical tutorial with [Vistorian](https://vistorian.github.io/). 
-Attendees will be able to either use the provided demo dataset or to explore thier own data (if you plan to be BYOD please check [this wiki](https://vistorian.github.io/formattingdata.html) on how to format your data to use them within the Vistorian platform.
+Attendees will be able to either use the provided demo dataset or to explore thier own data (if you plan to be BYOD please check [this wiki](https://vistorian.github.io/formattingdata.html) on how to format your data to use them within the Vistorian platform).
 For more information on how to get ready for the practical see the `Readme.md` file within the `Vistorian` folder in this repo.
 
 We are then going to move on to the second practical tutorial that will focus on how to produce good data visualisation with R.
