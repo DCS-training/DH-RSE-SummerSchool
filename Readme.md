@@ -60,3 +60,6 @@ In her research she seeks to identify and classify gender bias present in the la
 In this repo you can find two folders:
 - The `Vistorian` folder contains all the material to get ready for the Vistorian demo and hands-on tutorial
 - The `R Studio` folder contains all the material to get ready for the R Studio tutorial
+
+## License
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
